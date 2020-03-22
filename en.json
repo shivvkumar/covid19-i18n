@@ -1,0 +1,19 @@
+// english label for in app text
+{
+  "app_title": "Coronavirus",
+  "yes_label": "Yes",
+  "no_label": "No",
+  "exit_label": "Exit",
+  "exit_ques_label": "Do you want to exit?",
+  "button_self_report": "Self-report Symptoms",
+  "start_screen_btn_label": "Check for Symptoms",
+  "protective_measure_key": "Protective Measures",
+  "important_links_key": "Important Links",
+  "helpline_numbers_key": "Helpline Numbers",
+  "location_history_key": "Location History",
+  "resources_key": "Resources",
+  "change_language_key": "Change Language",
+  "contact_us_key": "Contact Us",
+  "privacy_policy_key": "Privacy Policy",
+  "feedback_key": "Feedback"
+}
